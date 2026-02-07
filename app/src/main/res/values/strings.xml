@@ -1,3 +1,26 @@
 <resources>
     <string name="app_name">Study Buddy App</string>
+
+    // MainActivity Strings
+    <string name="welcome_title">Welcome to Study Buddy</string>
+    <string name="btn_get_started">Get Started</string>
+
+    // LoginActivity Strings
+    <string name="login_title">Log In</string>
+    <string name="hint_username">Username</string>
+    <string name="hint_password">Password</string>
+    <string name="btn_login">Log In</string>
+
+    // DashboardActivity Strings
+    <string name="dashboard_title">Dashboard</string>
+    <string name="btn_goto_profile">Profile</string>
+    <string name="btn_goto_settings">Settings</string>
+
+    // ProfileActivity Strings
+    <string name="profile_title">Profile</string>
+    <string name="profile_name">Student Name</string>
+
+    // SettingsActivity Strings
+    <string name="settings_title">Settings</string>
+    <string name="settings_info">Version 1.0</string>
 </resources>
